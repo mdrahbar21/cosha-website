@@ -1,0 +1,11 @@
+
+.meeting-box{
+    border-bottom: 3px solid #ff5f13;
+}
+
+
+.meeting-box:hover{
+    transform: scale(1.1);
+    transition: all 0.2s;
+    box-shadow: 1px 5px 5px #ccc;
+  }
